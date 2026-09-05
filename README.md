@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/focus-AI%20%2B%20physical%20products-071923?style=flat-square&labelColor=071923&color=139BB7" alt="Focus: AI and physical products" />
 </p>
 
+<img align="right" width="320" src="./assets/medtech-orb.png" alt="Transparent 3D optical lens with an AI neural lattice" />
+
 ## about
 
 I am an independent product builder working across AI, digital health, embedded hardware, computer vision, and interactive 3D.
