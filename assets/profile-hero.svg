@@ -1,13 +1,5 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="320" rx="24" fill="#061923"/>
-  <path d="M0 261C177 222 274 303 466 246C662 188 758 136 1200 213" stroke="#113747" stroke-width="1"/>
-  <path d="M0 281C167 242 302 320 490 264C706 200 838 174 1200 239" stroke="#0B6073" stroke-opacity="0.58" stroke-width="1"/>
-  <circle cx="1016" cy="156" r="105" stroke="#139BB7" stroke-opacity="0.38"/>
-  <circle cx="1016" cy="156" r="68" stroke="#2ED1E6" stroke-opacity="0.62"/>
-  <path d="M907 156C944 107 1000 88 1055 104C1085 113 1109 132 1125 156C1089 205 1033 224 978 208C947 199 923 180 907 156Z" stroke="#DFFAFF" stroke-width="4"/>
-  <circle cx="1016" cy="156" r="28" fill="#2ED1E6" fill-opacity="0.9"/>
-  <circle cx="1016" cy="156" r="11" fill="#061923"/>
   <text x="72" y="132" fill="#F4FBFC" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1">ADILBEK SARSEMBA YEV</text>
   <text x="76" y="180" fill="#67DBEA" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="4">AI  ·  MEDTECH  ·  HARDWARE  ·  3D</text>
-  <path d="M76 213H482" stroke="#2ED1E6" stroke-opacity="0.72" stroke-width="2"/>
 </svg>
