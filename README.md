@@ -1,15 +1,15 @@
-<p align="center">
+<p>
   <strong>ADILBEK SARSEMBAYEV</strong><br />
   <sub>AI · MEDTECH · HARDWARE · INTERACTIVE 3D</sub>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=900&color=2ED1E6&center=true&vCenter=true&width=680&lines=Building+intelligent+systems+for+the+physical+world.;AI+%C2%B7+MedTech+%C2%B7+Hardware+%C2%B7+Interactive+3D" alt="Building intelligent systems for the physical world" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=900&color=2ED1E6&vCenter=true&width=650&lines=Building+intelligent+systems+for+the+physical+world.;AI+%C2%B7+MedTech+%C2%B7+Hardware+%C2%B7+Interactive+3D" alt="Building intelligent systems for the physical world" />
 </p>
 
-<img align="right" width="245" src="./assets/shadow-hand.png" alt="Dark illustrated figure reaching forward" />
+<img align="right" width="190" src="./assets/shadow-hand.png" alt="Dark illustrated figure reaching forward" />
 
-### about
+<sub>01</sub> **ABOUT**
 
 Independent product builder from Kazakhstan. I turn early ideas into working systems: connected devices, firmware, data flows, interfaces, and the product experience around them.
 
@@ -17,7 +17,7 @@ I work where AI meets the physical world — digital health, computer vision, em
 
 <br clear="right" />
 
-### toolkit
+<sub>02</sub> **TOOLKIT**
 
 **AI & data** — Python, machine learning, computer vision, explainable risk models<br />
 **Product & web** — TypeScript, React, Next.js, Flutter, Supabase<br />
@@ -27,13 +27,7 @@ I work where AI meets the physical world — digital health, computer vision, em
   <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,flutter,dart,godot,arduino,supabase,git&theme=dark&perline=10" alt="Python, TypeScript, React, Next.js, Flutter, Dart, Godot, Arduino, Supabase, and Git" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/AI_%26_data-0D1117?style=for-the-badge&logo=python&logoColor=2ED1E6" alt="AI and data" />
-  <img src="https://img.shields.io/badge/physical_products-0D1117?style=for-the-badge&logo=espressif&logoColor=2ED1E6" alt="Physical products" />
-  <img src="https://img.shields.io/badge/interactive_3D-0D1117?style=for-the-badge&logo=threedotjs&logoColor=2ED1E6" alt="Interactive 3D" />
-</p>
-
-### selected work
+<sub>03</sub> **SELECTED WORK**
 
 **OcuWave**<br />
 Connected ophthalmic platform for intraocular pressure monitoring — device, ESP32 firmware, Wi-Fi transfer, clinician dashboard, and 3D product experience.
@@ -64,11 +58,11 @@ Computer-vision prototypes for hand gestures, body tracking, reaction recognitio
 
 </details>
 
-### now
+<sub>04</sub> **NOW**
 
 Building OcuWave and experimenting with tools that make complex technology easier to see, understand, and use.
 
-### activity
+<sub>05</sub> **ACTIVITY**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sNibaAdeka&theme=dark&hide_border=true&background=0D1117&ring=139BB7&fire=2ED1E6&currStreakLabel=2ED1E6&sideLabels=F4FBFC&dates=728A92" alt="GitHub contribution streak: total contributions, current streak, and longest streak" />
