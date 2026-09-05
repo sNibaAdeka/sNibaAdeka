@@ -1,5 +1,3 @@
-<img src="./assets/profile-hero.svg" width="100%" alt="Adilbek Sarsembayev — AI, MedTech, Hardware and 3D" />
-
 <p align="center">
   <a href="https://github.com/sNibaAdeka?tab=repositories"><img src="https://img.shields.io/badge/based%20in-Kazakhstan-071923?style=flat-square&labelColor=071923&color=139BB7" alt="Based in Kazakhstan" /></a>
   <img src="https://img.shields.io/badge/building-OcuWave-071923?style=flat-square&labelColor=071923&color=2ED1E6" alt="Building OcuWave" />
