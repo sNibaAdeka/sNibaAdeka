@@ -62,7 +62,7 @@ Local prototypes for hand-gesture input, cursor control, body tracking, reaction
 - tools that make AI and technical learning more visual and accessible
 - interactive experiences that make complex systems easier to understand
 
-## activity
+### activity
 
 I use GitHub as a working portfolio: product experiments, connected-device prototypes, visual AI tools, and the systems behind them. The contribution calendar below the profile shows the ongoing work; the repositories above explain the ideas behind it.
 
