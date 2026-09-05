@@ -3,6 +3,10 @@
   <sub>AI · MEDTECH · HARDWARE · INTERACTIVE 3D</sub>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=900&color=2ED1E6&center=true&vCenter=true&width=680&lines=Building+intelligent+systems+for+the+physical+world.;AI+%C2%B7+MedTech+%C2%B7+Hardware+%C2%B7+Interactive+3D" alt="Building intelligent systems for the physical world" />
+</p>
+
 <img align="right" width="245" src="./assets/shadow-hand.png" alt="Dark illustrated figure reaching forward" />
 
 ### about
