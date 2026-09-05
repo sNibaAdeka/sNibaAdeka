@@ -62,6 +62,10 @@ Local prototypes for hand-gesture input, cursor control, body tracking, reaction
 - tools that make AI and technical learning more visual and accessible
 - interactive experiences that make complex systems easier to understand
 
+## activity
+
+I use GitHub as a working portfolio: product experiments, connected-device prototypes, visual AI tools, and the systems behind them. The contribution calendar below the profile shows the ongoing work; the repositories above explain the ideas behind it.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sNibaAdeka&show_icons=true&hide_border=true&bg_color=00000000&title_color=139BB7&icon_color=2ED1E6&text_color=728A92" alt="GitHub statistics" />
 </p>
