@@ -1,58 +1,70 @@
-# Adilbek Sarsembayev
+<img src="./assets/profile-hero.svg" width="100%" alt="Adilbek Sarsembayev — AI, MedTech, Hardware and 3D" />
 
-AI, MedTech, hardware & 3D product builder based in Kazakhstan.
-
-I build products where software meets the physical world — connected medical devices, visual AI tools, computer vision, interactive 3D, and focused web platforms.
-
-## Focus
-
-- Applied AI and machine learning
-- Digital health and connected medical devices
-- ESP32 firmware, sensors, and device-to-web data flows
-- Interactive 3D products and simulation
-- Product design and full-stack web development
-
-## Stack
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="34" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="34" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="34" alt="Godot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="34" alt="Arduino and ESP32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="34" alt="Supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" />
+<p align="center">
+  <a href="https://github.com/sNibaAdeka?tab=repositories"><img src="https://img.shields.io/badge/based%20in-Kazakhstan-071923?style=flat-square&labelColor=071923&color=139BB7" alt="Based in Kazakhstan" /></a>
+  <img src="https://img.shields.io/badge/building-OcuWave-071923?style=flat-square&labelColor=071923&color=2ED1E6" alt="Building OcuWave" />
+  <img src="https://img.shields.io/badge/focus-AI%20%2B%20physical%20products-071923?style=flat-square&labelColor=071923&color=139BB7" alt="Focus: AI and physical products" />
 </p>
 
-## Selected work
+## about
 
-### OcuWave — Connected ophthalmic platform
+I am an independent product builder working across AI, digital health, embedded hardware, computer vision, and interactive 3D.
 
-An end-to-end MedTech ecosystem for intraocular pressure monitoring: a connected device, ESP32 firmware, Wi-Fi data transfer, clinician dashboard, patient records, measurement analysis, and an interactive 3D product experience.
+My strongest interest is turning an idea into a complete product system: the device, firmware, data flow, interface, visual identity, and the experience people actually use.
 
-### Neuralese Builder — Visual AI environment
+## core skills
 
-A Godot-based desktop application for learning and building neural networks through node graphs, datasets, training workflows, simulations, and a local runtime.
+- **product systems:** research → prototype → interface → deployment
+- **AI & data:** machine-learning workflows, computer vision, visual AI tools, explainable risk models
+- **hardware:** ESP32, sensors, Wi-Fi APIs, device-to-web communication
+- **creative engineering:** Three.js, Godot, WebGL, interactive 3D, simulations
+- **product stack:** TypeScript, React, Next.js, Flutter, Python, Supabase
 
-### CareLink — Clinical monitoring platform
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,flutter,dart,godot,arduino,supabase,git&theme=dark&perline=11" alt="Python, TypeScript, JavaScript, React, Next.js, Flutter, Dart, Godot, Arduino, Supabase and Git" />
+</p>
 
-A healthcare workspace for patient data, clinician dashboards, and explainable risk-assessment workflows.
+## featured projects
 
-### Extra AI — Prompt enhancement tool
+### OcuWave
 
-A Flutter application and web landing page for improving, structuring, and refining prompts for AI and coding assistants.
+**Connected ophthalmic platform — product, device and clinical software**
 
-### Gesture Lab — Computer vision experiments
+An end-to-end MedTech ecosystem for intraocular pressure monitoring: a connected handheld device, ESP32 firmware, Wi-Fi data transfer, clinician dashboard, patient records, measurement analysis, and an interactive 3D product experience.
 
-A set of local tools for hand-gesture control, body tracking, reaction recognition, and real-time 3D motion avatars.
+### Neuralese Builder
 
-## Building now
+**Visual AI environment — node graphs, learning workflows and simulations**
 
-Reliable AI products that connect sensors, devices, software, and people.
+A Godot-based desktop application for building and learning neural networks through visual model graphs, dataset workflows, training orchestration, interactive simulations, and local runtime tools.
+
+### CareLink
+
+**Clinical monitoring and explainable risk workflows**
+
+A healthcare workspace for patient data, clinician dashboards, and interpretable risk-assessment flows designed to support informed decisions rather than replace medical judgement.
+
+### Extra AI
+
+**Prompt enhancement for creators and developers**
+
+A Flutter product and web experience for structuring, improving, and refining prompts for AI and coding assistants.
+
+### Gesture Lab
+
+**Computer vision interaction experiments**
+
+Local prototypes for hand-gesture input, cursor control, body tracking, reaction recognition, and real-time 3D motion avatars.
+
+## currently building
+
+- OcuWave — bringing connected hardware and clinical software into one coherent product
+- tools that make AI and technical learning more visual and accessible
+- interactive experiences that make complex systems easier to understand
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sNibaAdeka&show_icons=true&hide_border=true&bg_color=00000000&title_color=139BB7&icon_color=2ED1E6&text_color=728A92" alt="GitHub statistics" />
+</p>
 
 ---
 
