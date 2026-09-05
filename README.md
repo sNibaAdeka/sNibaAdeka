@@ -9,8 +9,6 @@
 
 <sub>01</sub> **ABOUT**
 
-<img align="right" width="108" src="./assets/shadow-hand.png" alt="Dark illustrated figure reaching forward" />
-
 Independent product builder from Kazakhstan. I turn early ideas into working systems: connected devices, firmware, data flows, interfaces, and the product experience around them.
 
 I work where AI meets the physical world — digital health, computer vision, embedded hardware, and interactive 3D.
@@ -75,3 +73,7 @@ Building OcuWave and experimenting with tools that make complex technology easie
 </p>
 
 Open to meaningful collaboration in AI, health technology, embedded systems, and product design.
+
+<p align="right">
+  <img width="220" src="./assets/shadow-hand.png" alt="Dark illustrated figure reaching forward" />
+</p>
