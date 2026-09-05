@@ -60,7 +60,7 @@ Building OcuWave and experimenting with tools that make complex technology easie
 
 <sub>05</sub> **ACTIVITY**
 
-<img align="right" width="175" src="./assets/shadow-hand.png" alt="Dark illustrated figure reaching forward" />
+<img align="right" width="215" src="./assets/shadow-hand.png" alt="Dark illustrated figure reaching forward" />
 
 <p align="left">
   <img width="540" src="https://streak-stats.demolab.com?user=sNibaAdeka&theme=dark&hide_border=true&background=0D1117&ring=139BB7&fire=2ED1E6&currStreakLabel=2ED1E6&sideLabels=F4FBFC&dates=728A92" alt="GitHub contribution streak: total contributions, current streak, and longest streak" />
