@@ -67,7 +67,7 @@ Local prototypes for hand-gesture input, cursor control, body tracking, reaction
 I use GitHub as a working portfolio: product experiments, connected-device prototypes, visual AI tools, and the systems behind them. The contribution calendar below the profile shows the ongoing work; the repositories above explain the ideas behind it.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sNibaAdeka&show_icons=true&hide_border=true&bg_color=00000000&title_color=139BB7&icon_color=2ED1E6&text_color=728A92" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=sNibaAdeka&theme=dark&hide_border=true&background=0D1117&ring=139BB7&fire=2ED1E6&currStreakLabel=2ED1E6&sideLabels=F4FBFC&dates=728A92" alt="GitHub contribution streak: total contributions, current streak, and longest streak" />
 </p>
 
 ---
