@@ -25,19 +25,19 @@ I work where AI meets the physical world — digital health, computer vision, em
 
 <sub>03</sub> **SELECTED WORK**
 
-**OcuWave**<br />
+[OcuWave](https://github.com/sNibaAdeka/OcuWaveFullDone)<br />
 Connected ophthalmic platform for intraocular pressure monitoring — device, ESP32 firmware, Wi-Fi transfer, clinician dashboard, and 3D product experience.
 
-**Neuralese Builder**<br />
+[Neuralese Builder](https://github.com/sNibaAdeka/neuralese)<br />
 Visual environment for building neural networks through model graphs, datasets, training workflows, and simulations.
 
-**CareLink**<br />
+[CareLink](https://github.com/sNibaAdeka/carelink-ml)<br />
 Clinical monitoring workspace for patient data, dashboards, and explainable risk-assessment workflows.
 
-**Extra AI**<br />
+[Extra AI](https://github.com/sNibaAdeka/extra-ai)<br />
 Prompt enhancement tool for creators and developers, built as a Flutter product with a web companion.
 
-**Gesture Lab**<br />
+[Gesture Lab](https://github.com/sNibaAdeka/gesture-mouse)<br />
 Computer-vision prototypes for hand gestures, body tracking, reaction recognition, and motion avatars.
 
 <details>
