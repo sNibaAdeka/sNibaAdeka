@@ -7,15 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=900&color=2ED1E6&vCenter=true&width=650&lines=Building+intelligent+systems+for+the+physical+world.;AI+%C2%B7+MedTech+%C2%B7+Hardware+%C2%B7+Interactive+3D" alt="Building intelligent systems for the physical world" />
 </p>
 
-<img align="right" width="190" src="./assets/shadow-hand.png" alt="Dark illustrated figure reaching forward" />
-
 <sub>01</sub> **ABOUT**
 
 Independent product builder from Kazakhstan. I turn early ideas into working systems: connected devices, firmware, data flows, interfaces, and the product experience around them.
 
 I work where AI meets the physical world — digital health, computer vision, embedded hardware, and interactive 3D.
-
-<br clear="right" />
 
 <sub>02</sub> **TOOLKIT**
 
