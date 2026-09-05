@@ -8,13 +8,13 @@
 
 <img align="right" width="300" src="./assets/shadow-hand.png" alt="Dark illustrated figure reaching forward" />
 
-## about
+### about
 
 I am an independent product builder working across AI, digital health, embedded hardware, computer vision, and interactive 3D.
 
 My strongest interest is turning an idea into a complete product system: the device, firmware, data flow, interface, visual identity, and the experience people actually use.
 
-## core skills
+### core skills
 
 - **product systems:** research → prototype → interface → deployment
 - **AI & data:** machine-learning workflows, computer vision, visual AI tools, explainable risk models
@@ -26,7 +26,7 @@ My strongest interest is turning an idea into a complete product system: the dev
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,flutter,dart,godot,arduino,supabase,git&theme=dark&perline=11" alt="Python, TypeScript, JavaScript, React, Next.js, Flutter, Dart, Godot, Arduino, Supabase and Git" />
 </p>
 
-## featured projects
+### featured projects
 
 ### OcuWave
 
@@ -58,7 +58,7 @@ A Flutter product and web experience for structuring, improving, and refining pr
 
 Local prototypes for hand-gesture input, cursor control, body tracking, reaction recognition, and real-time 3D motion avatars.
 
-## currently building
+### currently building
 
 - OcuWave — bringing connected hardware and clinical software into one coherent product
 - tools that make AI and technical learning more visual and accessible
@@ -71,7 +71,5 @@ I use GitHub as a working portfolio: product experiments, connected-device proto
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sNibaAdeka&theme=dark&hide_border=true&background=0D1117&ring=139BB7&fire=2ED1E6&currStreakLabel=2ED1E6&sideLabels=F4FBFC&dates=728A92" alt="GitHub contribution streak: total contributions, current streak, and longest streak" />
 </p>
-
----
 
 Open to meaningful collaborations in AI, healthcare technology, embedded systems, and interactive product design.
