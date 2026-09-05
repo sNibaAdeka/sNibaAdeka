@@ -12,13 +12,15 @@ I am an independent product builder working across AI, digital health, embedded 
 
 My strongest interest is turning an idea into a complete product system: the device, firmware, data flow, interface, visual identity, and the experience people actually use.
 
+<br clear="right" />
+
 ### core skills
 
-- **product systems:** research → prototype → interface → deployment
-- **AI & data:** machine-learning workflows, computer vision, visual AI tools, explainable risk models
-- **hardware:** ESP32, sensors, Wi-Fi APIs, device-to-web communication
-- **creative engineering:** Three.js, Godot, WebGL, interactive 3D, simulations
-- **product stack:** TypeScript, React, Next.js, Flutter, Python, Supabase
+- **Product systems** — research → prototype → interface → deployment
+- **AI & data** — machine-learning workflows, computer vision, visual AI tools, explainable risk models
+- **Hardware** — ESP32, sensors, Wi-Fi APIs, device-to-web communication
+- **Creative engineering** — Three.js, Godot, WebGL, interactive 3D, simulations
+- **Product stack** — TypeScript, React, Next.js, Flutter, Python, Supabase
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,flutter,dart,godot,arduino,supabase,git&theme=dark&perline=11" alt="Python, TypeScript, JavaScript, React, Next.js, Flutter, Dart, Godot, Arduino, Supabase and Git" />
