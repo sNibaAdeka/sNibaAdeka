@@ -79,7 +79,7 @@ Building OcuWave and experimenting with tools that make complex technology easie
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sNibaAdeka/sNibaAdeka/output/snake-dark.svg" alt="Animated snake moving through real GitHub contribution cells" />
+  <img src="https://raw.githubusercontent.com/sNibaAdeka/sNibaAdeka/gh-pages/snake-dark.svg" alt="Animated snake moving through real GitHub contribution cells" />
 </p>
 
 Open to meaningful collaboration in AI, health technology, embedded systems, and product design.
